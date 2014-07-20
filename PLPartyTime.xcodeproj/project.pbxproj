@@ -762,6 +762,7 @@
 				360AEF7918CFDCE700CD4C36 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		36583F1418C2758E0008A71E /* Build configuration list for PBXProject "PLPartyTime" */ = {
 			isa = XCConfigurationList;
